@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 reserch/Untitled.md",
+                "file": "000 reserch/State of the Art.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "State of the Art"
             }
           }
         ]
@@ -187,7 +187,7 @@
   "active": "882bcf0f865c4ccb",
   "lastOpenFiles": [
     "02 System Architecture/02 Operational Flow عملکرد سیستم.md",
-    "000 reserch/Untitled.md",
+    "000 reserch/State of the Art.md",
     "000 reserch",
     "02 System Architecture/01 System Overview نمای کلی سیستم.md",
     "01 mission/mission.md",
