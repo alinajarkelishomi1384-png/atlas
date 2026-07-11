@@ -1,5 +1,49 @@
+```dataview
+---
+priority: 1
+status: in-progress
+---
+```
 
-
+Mission Start
+      │
+      ▼
+Observe Environment
+      │
+      ▼
+Acquire Data
+      │
+      ▼
+Validate Data
+      │
+      ▼
+Estimate State
+      │
+      ▼
+Check Mission Constraints
+      │
+      ▼
+Generate Candidate Actions
+      │
+      ▼
+Evaluate Risk
+      │
+      ▼
+Select Best Action
+      │
+      ▼
+Execute
+      │
+      ▼
+Measure Result
+      │
+      ▼
+Update Knowledge
+      │
+      └──────────────┐
+                     ▼
+            Observe Environment
+            
 
 
 # Operational Flow
