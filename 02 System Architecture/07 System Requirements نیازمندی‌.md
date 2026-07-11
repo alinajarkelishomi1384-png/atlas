@@ -1,3 +1,8 @@
+---
+status: "در حال انجام"
+priority: 3
+---
+
 # System Requirements
 نیازمندی‌های سیستم
 

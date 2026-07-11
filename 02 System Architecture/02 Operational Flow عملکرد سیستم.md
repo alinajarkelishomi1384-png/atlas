@@ -1,4 +1,7 @@
-
+---
+status: "در حال انجام"
+priority: 3
+---
 Mission Start
       │
       ▼

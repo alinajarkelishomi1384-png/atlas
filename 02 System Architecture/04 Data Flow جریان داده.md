@@ -1,3 +1,7 @@
+---
+status: "در حال انجام"
+priority: 3
+---
 Raw Sensor Data
         │
         ▼
