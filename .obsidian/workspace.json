@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 System Architecture/01 System Overview نمای کلی سیستم.md",
+                "file": "02 System Architecture/02 Operational Flow عملکرد سیستم.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 System Overview نمای کلی سیستم"
+              "title": "02 Operational Flow عملکرد سیستم"
             }
           }
         ]
@@ -180,15 +180,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "882bcf0f865c4ccb",
   "lastOpenFiles": [
-    "00_READ_ME_FIRST/taskes board.md",
     "02 System Architecture/01 System Overview نمای کلی سیستم.md",
-    "00_READ_ME_FIRST/report.md",
     "00_READ_ME_FIRST/dashbord.canvas",
+    "00_READ_ME_FIRST/report.md",
+    "00_READ_ME_FIRST/taskes board.md",
+    "02 System Architecture/02 Operational Flow عملکرد سیستم.md",
     "00_READ_ME_FIRST/map.canvas",
     "02 System Architecture/moc system architecture.md",
     "00_READ_ME_FIRST/0.md",
@@ -200,7 +202,6 @@
     "templates/1.md",
     "templates",
     "01 mission/mission.md",
-    "02 System Architecture/02 Operational Flow عملکرد سیستم.md",
     "02 System Architecture/07 System Requirements نیازمندی‌.md",
     "02 System Architecture/06  Interfaces رابط‌های ارتباطی.md",
     "02 System Architecture/05 State Definition تعریف وضعیت.md",
