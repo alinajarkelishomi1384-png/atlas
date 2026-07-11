@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 System Architecture/02 Operational Flow عملکرد سیستم.md",
+                "file": "000 reserch/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 Operational Flow عملکرد سیستم"
+              "title": "Untitled"
             }
           }
         ]
@@ -186,6 +186,9 @@
   },
   "active": "882bcf0f865c4ccb",
   "lastOpenFiles": [
+    "02 System Architecture/02 Operational Flow عملکرد سیستم.md",
+    "000 reserch/Untitled.md",
+    "000 reserch",
     "02 System Architecture/01 System Overview نمای کلی سیستم.md",
     "01 mission/mission.md",
     "00_READ_ME_FIRST/report.md",
@@ -195,7 +198,6 @@
     "02 System Architecture/05 State Definition تعریف وضعیت.md",
     "02 System Architecture/04 Data Flow جریان داده.md",
     "02 System Architecture/03 Component Architectureمعماری ا.md",
-    "02 System Architecture/02 Operational Flow عملکرد سیستم.md",
     "00_READ_ME_FIRST/dashbord.canvas",
     "00_READ_ME_FIRST/taskes board.md",
     "00_READ_ME_FIRST/map.canvas",
@@ -222,7 +224,6 @@
     "16 Research",
     "15 Knowledge Base",
     "14 Memory System",
-    "13 Adaptive Learning",
-    "12 Feedback System"
+    "13 Adaptive Learning"
   ]
 }
