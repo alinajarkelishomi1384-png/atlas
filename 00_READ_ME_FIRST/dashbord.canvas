@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"8d537cc18c6d71e5","type":"text","text":"وضعیت فعلی پروژه","x":-200,"y":-380,"width":250,"height":60},
+		{"id":"79eed15c8b9694e2","type":"file","file":"00_READ_ME_FIRST/map.canvas","x":-262,"y":-200,"width":425,"height":200}
+	],
+	"edges":[]
+}
