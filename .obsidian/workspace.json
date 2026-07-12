@@ -11,14 +11,10 @@
             "id": "882bcf0f865c4ccb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "16 Research/Papers/Emami_2022_IFCS_Review.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Emami_2022_IFCS_Review"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -186,15 +182,15 @@
   },
   "active": "882bcf0f865c4ccb",
   "lastOpenFiles": [
+    "16 Research/Team Ideas/Core_Architecture_Ideas.md",
+    "16 Research/Safety Research/safety_filters_cbf.md",
+    "16 Research/Safety Research/learning_rate_monitor.md",
+    "16 Research/Papers/Emami_2022_IFCS_Review.md",
     "16 Research/Aerospace Research/nonlinear_affine_models.md",
     "16 Research/Aerospace Research/baseline_controller.md",
     "000 reserch/State of the Art.md",
-    "16 Research/Team Ideas/Core_Architecture_Ideas.md",
     "16 Research/Team Ideas",
-    "16 Research/Safety Research/safety_filters_cbf.md",
-    "16 Research/Safety Research/learning_rate_monitor.md",
     "16 Research/Safety Research",
-    "16 Research/Papers/Emami_2022_IFCS_Review.md",
     "16 Research/Papers",
     "16 Research/AI Research/mission_state_graph.md",
     "16 Research/AI Research/llm_reasoning_core.md",
