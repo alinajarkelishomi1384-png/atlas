@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "16 Research/Safety Research/safety_filters_cbf.md",
+                "file": "16 Research/Safety Research/SBF 0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "safety_filters_cbf"
+              "title": "SBF 0"
             }
           }
         ]
@@ -186,13 +186,14 @@
   },
   "active": "c0e67da2e64d7f9f",
   "lastOpenFiles": [
+    "16 Research/Safety Research/safety_filters_cbf.md",
+    "16 Research/Safety Research/SBF 0.md",
     "16 Research/AI Research/mission_state_graph.md",
     "2026-07-12.md",
     "Untitled.canvas",
     "16 Research/Aerospace Research/baseline_controller.md",
     "000 reserch/State of the Art.md",
     "16 Research/Team Ideas/Core_Architecture_Ideas.md",
-    "16 Research/Safety Research/safety_filters_cbf.md",
     "16 Research/Safety Research/learning_rate_monitor.md",
     "16 Research/Papers/Emami_2022_IFCS_Review.md",
     "16 Research/Aerospace Research/nonlinear_affine_models.md",
@@ -221,7 +222,6 @@
     "00_READ_ME_FIRST/0.md",
     "00_READ_ME_FIRST/11.md",
     "00_READ_ME_FIRST/r.md",
-    "00_READ_ME_FIRST/1.md",
     "templates",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
