@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "16 Research/AI Research/mission_state_graph.md",
+                "file": "16 Research/Safety Research/CBF 0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mission_state_graph"
+              "title": "CBF 0"
             }
           }
         ]
@@ -186,16 +186,16 @@
   },
   "active": "c0e67da2e64d7f9f",
   "lastOpenFiles": [
+    "16 Research/AI Research/LLM 0.md",
+    "16 Research/AI Research/mission_state_graph.md",
     "16 Research/Papers/Emami_2022_IFCS_Review.md",
     "01 mission/mission.md",
     "templates/1.md",
     "2026-07-12.md",
     "02 System Architecture/01 System Overview نمای کلی سیستم.md",
     "16 Research/Safety Research/safety_filters_cbf.md",
-    "16 Research/AI Research/LLM 0.md",
     "16 Research/AI Research/llm_reasoning_core.md",
     "16 Research/Safety Research/CBF 0.md",
-    "16 Research/AI Research/mission_state_graph.md",
     "16 Research/Safety Research/learning_rate_monitor.md",
     "Untitled.canvas",
     "16 Research/Aerospace Research/baseline_controller.md",
