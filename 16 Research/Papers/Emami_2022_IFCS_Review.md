@@ -30,15 +30,9 @@ $$\dot{x} = f(x) + g(x)u$$
 
 
 
-
-
-
-
-
 ---
 title: "تحلیل جامع ۱۸ بخشی: فیلترهای ایمنی تطبیقی و بازخوانی درس‌های آموخته‌شده ناسا (IFCS)"
-author: "Emami et al. (2022) / Architecture Update 2026"
-tags: [NASA-IFCS, Safety-Filters, CBF, SOTA-Research, Flight-Control]
+
 ---
 
 # 📑 گزارش پژوهشی جامع: معماری فیلترهای ایمنی تطبیقی در سیستم‌های هوانوردی خودران
