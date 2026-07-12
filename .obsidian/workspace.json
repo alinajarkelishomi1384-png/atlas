@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1cc4a52682ccbc68",
+        "id": "e6f709764f220364",
         "type": "tabs",
         "children": [
           {
-            "id": "882bcf0f865c4ccb",
+            "id": "c0e67da2e64d7f9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,8 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "882bcf0f865c4ccb",
+  "active": "c0e67da2e64d7f9f",
   "lastOpenFiles": [
+    "2026-07-12.md",
+    "Untitled.canvas",
+    "16 Research/AI Research/mission_state_graph.md",
     "16 Research/Aerospace Research/baseline_controller.md",
     "000 reserch/State of the Art.md",
     "16 Research/Team Ideas/Core_Architecture_Ideas.md",
@@ -196,7 +199,6 @@
     "16 Research/Team Ideas",
     "16 Research/Safety Research",
     "16 Research/Papers",
-    "16 Research/AI Research/mission_state_graph.md",
     "16 Research/AI Research/llm_reasoning_core.md",
     "16 Research/AI Research",
     "16 Research/Aerospace Research",
@@ -220,7 +222,6 @@
     "00_READ_ME_FIRST/11.md",
     "00_READ_ME_FIRST/r.md",
     "00_READ_ME_FIRST/1.md",
-    "templates/1.md",
     "templates",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
