@@ -11,14 +11,17 @@
             "id": "c0e67da2e64d7f9f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "01 mission/mission.md",
-                "mode": "source",
-                "source": false
+                "file": "00_READ_ME_FIRST/map.canvas",
+                "viewState": {
+                  "x": 135,
+                  "y": -180,
+                  "zoom": -0.40013443495352524
+                }
               },
-              "icon": "lucide-file",
-              "title": "mission"
+              "icon": "lucide-layout-dashboard",
+              "title": "map"
             }
           }
         ]
@@ -186,6 +189,8 @@
   },
   "active": "c0e67da2e64d7f9f",
   "lastOpenFiles": [
+    "00_READ_ME_FIRST/dashbord.canvas",
+    "01 mission/mission.md",
     "templates/1.md",
     "16 Research/Team Ideas/Core_Architecture_Ideas.md",
     "19 Daily Notes/هرچی اضافه میشه باید.md",
@@ -198,7 +203,6 @@
     "00_READ_ME_FIRST/taskes board.md",
     "00_READ_ME_FIRST/report.md",
     "00_READ_ME_FIRST/map.canvas",
-    "00_READ_ME_FIRST/dashbord.canvas",
     "00_READ_ME_FIRST/0.md",
     "16 Research/Safety Research/CBF 0.md",
     "16 Research/Papers/Emami_2022_IFCS_Review.md",
@@ -207,7 +211,6 @@
     "16 Research/Safety Research/learning_rate_monitor.md",
     "16 Research/AI Research/llm_reasoning_core.md",
     "16 Research/AI Research/mission_state_graph.md",
-    "01 mission/mission.md",
     "2026-07-12.md",
     "Untitled.canvas",
     "16 Research/Aerospace Research/baseline_controller.md",
@@ -220,7 +223,6 @@
     "16 Research/Aerospace Research",
     "000 reserch/Aerospace",
     "02 System Architecture/04 Data Flow جریان داده.md",
-    "02 System Architecture/08 Glossary واژه‌نامه پروژه.md",
     "000 reserch",
     "templates",
     "Untitled 2.canvas",
