@@ -11,14 +11,17 @@
             "id": "c0e67da2e64d7f9f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "00_READ_ME_FIRST/0.md",
-                "mode": "source",
-                "source": false
+                "file": "00_READ_ME_FIRST/map.canvas",
+                "viewState": {
+                  "x": 135,
+                  "y": -180,
+                  "zoom": -0.40013443495352524
+                }
               },
-              "icon": "lucide-file",
-              "title": "0"
+              "icon": "lucide-layout-dashboard",
+              "title": "map"
             }
           }
         ]
@@ -186,8 +189,8 @@
   },
   "active": "c0e67da2e64d7f9f",
   "lastOpenFiles": [
-    "01 mission/mission.md",
     "00_READ_ME_FIRST/0.md",
+    "01 mission/mission.md",
     "00_READ_ME_FIRST/dashbord.canvas",
     "16 Research/01_LLM_Reasoning_استدلال_سطح_بالا/llm_reasoning_core.md",
     "16 Research/01_LLM_Reasoning_استدلال_سطح_بالا/LLM 0.md",
