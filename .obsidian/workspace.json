@@ -11,14 +11,10 @@
             "id": "c0e67da2e64d7f9f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "16 Research/Modular_Brain_Project/Aerospace Research/nonlinear_affine_models.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "nonlinear_affine_models"
+              "title": "New tab"
             }
           }
         ]
@@ -186,8 +182,11 @@
   },
   "active": "c0e67da2e64d7f9f",
   "lastOpenFiles": [
-    "16 Research/Modular_Brain_Project/Aerospace Research/baseline_controller.md",
+    "16 Research/Modular_Brain_Project/Aerospace Research/nonlinear_affine_models.md",
     "16 Research/Aerospace Research/nonlinear_affine_models.md",
+    "16 Research/Aerospace Research/baseline_controller.md",
+    "16 Research/Aerospace Research",
+    "16 Research/Modular_Brain_Project/Aerospace Research/baseline_controller.md",
     "16 Research/Papers/Emami_2022_IFCS_Review.md",
     "16 Research/Papers",
     "16 Research/01_LLM_Reasoning_استدلال_سطح_بالا/mission_state_graph.md",
@@ -213,15 +212,12 @@
     "16 Research/04_Formal_Safety_CBF_ایمنی_صوری/learning_rate_monitor.md",
     "16 Research/04_Formal_Safety_CBF_ایمنی_صوری",
     "16 Research/03_State_Estimation_تخمین_حالت/README.md",
-    "16 Research/03_State_Estimation_تخمین_حالت",
     "16 Research/02_MPC_Control_کنترل_پیش‌بین/README.md",
-    "16 Research/Modular_Brain_Project/Aerospace Research/nonlinear_affine_models.md",
     "16 Research/Modular_Brain_Project/Team Ideas/Core_Architecture_Ideas.md",
     "16 Research/Modular_Brain_Project/Papers/Emami_2022_IFCS_Review.md",
     "16 Research/Modular_Brain_Project/AI Research/LLM 0.md",
     "16 Research/Modular_Brain_Project/AI Research/mission_state_graph.md",
     "16 Research/Modular_Brain_Project/AI Research/llm_reasoning_core.md",
-    "16 Research/Modular_Brain_Project/04_Formal_Safety_CBF_ایمنی_صوری/CBF 0.md",
     "00_READ_ME_FIRST/map.canvas",
     "00_READ_ME_FIRST/dashbord.canvas",
     "Untitled.canvas",
