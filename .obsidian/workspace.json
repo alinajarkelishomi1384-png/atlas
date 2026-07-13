@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modular_Brain_Project/01_LLM_Reasoning_استدلال_سطح_بالا/README.md",
+                "file": "16 Research/Aerospace Research/nonlinear_affine_models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "nonlinear_affine_models"
             }
           }
         ]
@@ -187,6 +187,27 @@
   "active": "c0e67da2e64d7f9f",
   "lastOpenFiles": [
     "16 Research/AI Research/LLM 0.md",
+    "Modular_Brain_Project/01_LLM_Reasoning_استدلال_سطح_بالا/README.md",
+    "16 Research/Modular_Brain_Project/10_Core_Orchestrator_هسته_مرکزی/README.md",
+    "16 Research/Modular_Brain_Project/08_Time_Sync_همگام‌سازی_زمانی/README.md",
+    "16 Research/Modular_Brain_Project/09_Edge_MLOps_TinyML_عملیات_در_لبه/README.md",
+    "16 Research/Modular_Brain_Project/07_Fault_Detection_تشخیص_عیب/README.md",
+    "16 Research/Modular_Brain_Project/06_Middleware_ROS_زیرساخت_ارتباطی/README.md",
+    "16 Research/Modular_Brain_Project/02_MPC_Control_کنترل_پیش‌بین/README.md",
+    "16 Research/Modular_Brain_Project/03_State_Estimation_تخمین_حالت/README.md",
+    "16 Research/Modular_Brain_Project/05_Hierarchical_RL_یادگیری_سلسله_مراتبی/README.md",
+    "16 Research/Modular_Brain_Project/04_Formal_Safety_CBF_ایمنی_صوری/README.md",
+    "16 Research/Modular_Brain_Project/01_LLM_Reasoning_استدلال_سطح_بالا/README.md",
+    "16 Research/Modular_Brain_Project/10_Core_Orchestrator_هسته_مرکزی",
+    "16 Research/Modular_Brain_Project/09_Edge_MLOps_TinyML_عملیات_در_لبه",
+    "16 Research/Modular_Brain_Project/08_Time_Sync_همگام‌سازی_زمانی",
+    "16 Research/Modular_Brain_Project/07_Fault_Detection_تشخیص_عیب",
+    "16 Research/Modular_Brain_Project/06_Middleware_ROS_زیرساخت_ارتباطی",
+    "16 Research/Modular_Brain_Project/02_MPC_Control_کنترل_پیش‌بین",
+    "16 Research/Modular_Brain_Project/05_Hierarchical_RL_یادگیری_سلسله_مراتبی",
+    "16 Research/Modular_Brain_Project/04_Formal_Safety_CBF_ایمنی_صوری",
+    "16 Research/Modular_Brain_Project/03_State_Estimation_تخمین_حالت",
+    "16 Research/Modular_Brain_Project/01_LLM_Reasoning_استدلال_سطح_بالا",
     "00_READ_ME_FIRST/0.md",
     "02 System Architecture/02 Operational Flow عملکرد سیستم.md",
     "00_READ_ME_FIRST/map.canvas",
@@ -203,29 +224,9 @@
     "00_READ_ME_FIRST/taskes board.md",
     "00_READ_ME_FIRST/report.md",
     "16 Research/Safety Research/CBF 0.md",
-    "16 Research/Papers/Emami_2022_IFCS_Review.md",
-    "16 Research/Safety Research/safety_filters_cbf.md",
-    "16 Research/Safety Research/learning_rate_monitor.md",
-    "16 Research/AI Research/llm_reasoning_core.md",
-    "16 Research/AI Research/mission_state_graph.md",
-    "2026-07-12.md",
     "Untitled.canvas",
-    "16 Research/Aerospace Research/baseline_controller.md",
-    "000 reserch/State of the Art.md",
-    "16 Research/Aerospace Research/nonlinear_affine_models.md",
-    "16 Research/Team Ideas",
-    "16 Research/Safety Research",
-    "16 Research/Papers",
-    "16 Research/AI Research",
-    "16 Research/Aerospace Research",
-    "000 reserch/Aerospace",
-    "02 System Architecture/04 Data Flow جریان داده.md",
-    "000 reserch",
-    "templates",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
-    "Untitled 1.canvas",
-    "00_READ_ME_FIRST",
-    "19 Daily Notes"
+    "Untitled 1.canvas"
   ]
 }
