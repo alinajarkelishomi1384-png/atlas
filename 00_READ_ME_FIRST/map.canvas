@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"718bb26d94ba2f60","x":-580,"y":-210,"width":250,"height":60,"color":"#5d2de1","type":"text","text":"ورودی"},
-		{"id":"584ff96d4cc63c15","x":240,"y":-210,"width":250,"height":60,"color":"#990b0b","type":"text","text":"ناظر ایمنی"},
-		{"id":"b218ddefefa34973","x":600,"y":-210,"width":250,"height":60,"color":"#009dff","type":"text","text":"خروجی\n"},
-		{"id":"baaceb223656b65e","x":-165,"y":-20,"width":250,"height":60,"color":"#bb00ff","type":"text","text":"حافظه تخصصی"},
-		{"id":"dbdc6c1deeb48c54","x":-165,"y":-400,"width":250,"height":60,"color":"#ff4d00","type":"text","text":"بازوهای محاسباتی"},
-		{"id":"9beeb3e73692ef2e","x":-200,"y":-240,"width":320,"height":120,"color":"4","type":"text","text":"هسته استدلال\n"}
+		{"id":"718bb26d94ba2f60","type":"text","text":"ورودی","x":-580,"y":-210,"width":250,"height":60,"color":"#5d2de1"},
+		{"id":"584ff96d4cc63c15","type":"text","text":"ناظر ایمنی","x":240,"y":-210,"width":250,"height":60,"color":"#990b0b"},
+		{"id":"b218ddefefa34973","type":"text","text":"خروجی\n","x":600,"y":-210,"width":250,"height":60,"color":"#009dff"},
+		{"id":"baaceb223656b65e","type":"text","text":"حافظه تخصصی","x":-165,"y":-20,"width":250,"height":60,"color":"#bb00ff"},
+		{"id":"dbdc6c1deeb48c54","type":"text","text":"بازوهای محاسباتی","x":-165,"y":-400,"width":250,"height":60,"color":"#ff4d00"},
+		{"id":"9beeb3e73692ef2e","type":"text","text":"هسته استدلال\n","x":-200,"y":-240,"width":320,"height":120,"color":"4"}
 	],
 	"edges":[
 		{"id":"db4b9c240b21dc7e","fromNode":"584ff96d4cc63c15","fromSide":"right","toNode":"b218ddefefa34973","toSide":"left"},
