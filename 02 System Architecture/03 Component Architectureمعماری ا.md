@@ -1,6 +1,6 @@
 ---
-status: "در حال انجام"
-priority: 3
+status: در حال انجام
+priority: 1
 ---
 # Component Architecture
 معماری اجزای سیستم
