@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_READ_ME_FIRST/0.md",
+                "file": "16 Research/01_LLM_Reasoning_استدلال_سطح_بالا/LLM 0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0"
+              "title": "LLM 0"
             }
           }
         ]
@@ -187,6 +187,7 @@
   "active": "c0e67da2e64d7f9f",
   "lastOpenFiles": [
     "02 System Architecture/02 Operational Flow عملکرد سیستم.md",
+    "00_READ_ME_FIRST/0.md",
     "02 System Architecture/01 System Overview نمای کلی سیستم.md",
     "00_READ_ME_FIRST/map.canvas",
     "01 mission/mission.md",
@@ -194,7 +195,6 @@
     "00_READ_ME_FIRST/report.md",
     "02 System Architecture/03 Component Architectureمعماری ا.md",
     "00_READ_ME_FIRST/dashbord.canvas",
-    "00_READ_ME_FIRST/0.md",
     "16 Research/01_LLM_Reasoning_استدلال_سطح_بالا/llm_reasoning_core.md",
     "16 Research/01_LLM_Reasoning_استدلال_سطح_بالا/LLM 0.md",
     "16 Research/01_LLM_Reasoning_استدلال_سطح_بالا/mission_state_graph.md",
