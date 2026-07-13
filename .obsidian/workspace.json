@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "16 Research/01_LLM_Reasoning_استدلال_سطح_بالا/LLM 0.md",
+                "file": "16 Research/04_Formal_Safety_CBF_ایمنی_صوری/CBF 0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LLM 0"
+              "title": "CBF 0"
             }
           }
         ]
@@ -186,11 +186,14 @@
   },
   "active": "c0e67da2e64d7f9f",
   "lastOpenFiles": [
+    "16 Research/10_Core_Orchestrator_هسته_مرکزی/README.md",
+    "16 Research/Aerospace Research/nonlinear_affine_models.md",
+    "16 Research/Aerospace Research/baseline_controller.md",
+    "16 Research/01_LLM_Reasoning_استدلال_سطح_بالا/LLM 0.md",
     "02 System Architecture/06  Interfaces رابط‌های ارتباطی.md",
     "02 System Architecture/05 State Definition تعریف وضعیت.md",
     "02 System Architecture/04 Data Flow جریان داده.md",
     "02 System Architecture/03 Component Architectureمعماری ا.md",
-    "16 Research/01_LLM_Reasoning_استدلال_سطح_بالا/LLM 0.md",
     "02 System Architecture/02 Operational Flow عملکرد سیستم.md",
     "00_READ_ME_FIRST/0.md",
     "02 System Architecture/01 System Overview نمای کلی سیستم.md",
@@ -203,14 +206,11 @@
     "16 Research/01_LLM_Reasoning_استدلال_سطح_بالا/mission_state_graph.md",
     "16 Research/01_LLM_Reasoning_استدلال_سطح_بالا/README.md",
     "16 Research/Modular_Brain_Project/Aerospace Research/nonlinear_affine_models.md",
-    "16 Research/Aerospace Research/nonlinear_affine_models.md",
-    "16 Research/Aerospace Research/baseline_controller.md",
     "16 Research/Aerospace Research",
     "16 Research/Modular_Brain_Project/Aerospace Research/baseline_controller.md",
     "16 Research/Papers/Emami_2022_IFCS_Review.md",
     "16 Research/Papers",
     "16 Research/01_LLM_Reasoning_استدلال_سطح_بالا",
-    "16 Research/10_Core_Orchestrator_هسته_مرکزی/README.md",
     "16 Research/10_Core_Orchestrator_هسته_مرکزی",
     "16 Research/09_Edge_MLOps_TinyML_عملیات_در_لبه/README.md",
     "16 Research/09_Edge_MLOps_TinyML_عملیات_در_لبه",
