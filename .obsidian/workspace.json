@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_READ_ME_FIRST/report.md",
+                "file": "01 mission/mission.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "report"
+              "title": "mission"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "c0e67da2e64d7f9f",
   "lastOpenFiles": [
-    "02 System Architecture/03 Component Architectureمعماری ا.md",
+    "00_READ_ME_FIRST/taskes board.md",
     "00_READ_ME_FIRST/report.md",
+    "02 System Architecture/03 Component Architectureمعماری ا.md",
     "00_READ_ME_FIRST/dashbord.canvas",
     "00_READ_ME_FIRST/map.canvas",
     "00_READ_ME_FIRST/0.md",
@@ -223,7 +224,6 @@
     "16 Research/04_Formal_Safety_CBF_ایمنی_صوری",
     "16 Research/03_State_Estimation_تخمین_حالت/README.md",
     "16 Research/02_MPC_Control_کنترل_پیش‌بین/README.md",
-    "16 Research/Modular_Brain_Project/Team Ideas/Core_Architecture_Ideas.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
